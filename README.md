@@ -1,79 +1,74 @@
-# Elevat_labs_Task_2
 
-📊 Sales Data Analysis – Power BI Dashboard
-
+📊 Product Performance Analysis – Power BI Dashboard
 
 📁 Project Overview
-This Power BI project presents a Sales Data Analysis Dashboard designed to visualize key metrics, trends, and insights from a sales dataset. The primary goal of this dashboard is to enable data-driven decision-making through clear and compelling storytelling using visuals.
+This Power BI project provides a detailed analysis of Top and Bottom 5 Products based on three key performance metrics: Sales, Profit, and Quantity Sold. It aims to help businesses understand which products are driving revenue and which ones are underperforming.
+
+<img width="1442" height="806" alt="image" src="https://github.com/user-attachments/assets/73a68b16-bc8d-4a2d-a197-6ee1a1997900" />
+
 
 🎯 Objectives
-Visualize total sales performance by product, month, and category.
+Identify the top-performing products by total sales, profit, and quantity sold.
 
-Compare actual sales vs targets.
+Highlight the bottom-performing products to assess improvement opportunities.
 
-Identify high-profit categories.
-
-Detect monthly trends and patterns for strategic planning.
+Enable strategic decisions in product marketing, inventory, and pricing.
 
 🧰 Tools Used
-Power BI – for data visualization and dashboard creation.
+Power BI – For dashboard development and data visualization.
 
-Excel / CSV – source data (not shown here).
+Excel / CSV – As the source data format.
 
 📈 Dashboard Visuals & Insights
-1. Sum of Total Sales by Product (Bar Chart)
-Displays the contribution of each product (Headphones, Smartphone, Tablet, Laptop, Camera).
+🔹 Top 5 Products Based on Sales (Bar Chart)
+Highest sales: Apple iPhone 14 (22.5M), followed by MacBook Air and Sony Bravia 55” TV.
 
-Helps identify top-performing products.
+These products contribute most significantly to revenue generation.
 
-2. Sum of Profit by Category (Pie Chart)
-Categories: Accessories, Electronics, Mobiles.
+🔹 Bottom 5 Products Based on Sales
+Lowest sales: Colgate Toothpaste (0.02M) and Dove Soap Pack.
 
-Accessories generated the highest profit (≈ 678K), followed by Electronics and Mobiles.
+These may require marketing push or evaluation for discontinuation.
 
-3. Sum of Total Sales by Month (Line Chart)
-Shows monthly fluctuations in sales.
+🔸 Top 5 Products Based on Profit
+Highest profit: Apple iPhone 14 (0.34M) and Sony Bravia 55” TV.
 
-Peak in March (~3.6M) and lowest in April (<500K).
+Indicates strong profitability even if quantity sold isn’t the highest.
 
-Recovery starts again from October.
+🔸 Bottom 5 Products Based on Profit
+Lowest profit: Colgate Toothpaste (0.4K), Nivea Body Lotion, Dove Soap Pack.
 
-4. Sales vs Target by Month (Area Chart with KPI Card)
-Highlights actual sales vs set goal.
+These products have low margins and may not be cost-effective.
 
-Example KPI: 311.97K sales achieved, surpassing the goal of 46.79K by +566.67%.
+🔷 Top 5 Products Based on Quantity
+Apple iPhone 14 (131 units) leads in units sold.
 
-📌 Key Takeaways
-March was the strongest month in terms of total sales.
+Suggests strong customer demand and popularity.
 
-Accessories are the most profitable category.
+🔷 Bottom 5 Products Based on Quantity
+Least sold: Tupperware Lunch Box (106), Nivea Body Lotion (108).
 
-Significant dip in April suggests need for further investigation (e.g., seasonal trend or external factor).
+May indicate lower demand or visibility.
 
-Current performance exceeds monthly goals significantly.
+📌 Key Insights
+Apple iPhone 14 leads across all three metrics (Sales, Profit, Quantity).
+
+Products like L'Oreal Shampoo, Colgate Toothpaste, and Dove Soap Pack appear consistently in the bottom category across multiple metrics.
+
+Suggests room for promotional strategies, bundling, or reconsideration of inventory.
 
 📂 Deliverables
-Power BI Dashboard (Screenshot or PBIX file).
+Power BI dashboard (Screenshot / PBIX file).
 
 README file (this document).
 
-Summary insights based on data visualizations.
-
-📎 How to Use
-If you have access to the .pbix file:
-
-Open in Power BI Desktop.
-
-Review charts and slicers to explore interactive features.
-
-Customize filters for deeper insights.
+Optional: Executive summary or recommendations.
 
 ✅ Outcome
-This dashboard demonstrates:
+This analysis dashboard helps in:
 
-Effective use of visuals for storytelling.
+Prioritizing high-performing products for campaigns or promotions.
 
-Ability to turn raw data into actionable business insights.
+Identifying low-performing products for further investigation.
 
-Key skills in Power BI, chart selection, and layout design.
-
+Driving business decisions using clean, actionable visuals.
